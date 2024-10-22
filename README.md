@@ -68,7 +68,7 @@ int search(int arr[], int N, int x)
 // Driver code
 int main(void)
 {
-    int arr[] = { 2, 3, 4, 10, 40 };
+    int arr[] = { 2, 3, 4, 5, 6 };
     for(int i = 0;i<5;i++)
     {
         cout<<arr[i]<<endl;
@@ -112,7 +112,7 @@ int binarySearch(int arr[], int low, int high, int x)
 // Driver code
 int main(void)
 {
-    int arr[] = { 8,9, 10, 13 ,15 };
+    int arr[] = { 8,9, 10, 11 ,12 };
     for(int i = 0;i<5;i++)
     {
         cout<<arr[i]<<" ";
@@ -132,7 +132,8 @@ int main(void)
 
 ### 1. Linear Search
 
-![](https://github.com/Sundar13905/Searching/blob/main/Screenshot%202024-10-21%20150910.png)
+![image](https://github.com/user-attachments/assets/35a407c7-f441-43e2-a28d-39fad7dd1a59)
+
 
 
 
