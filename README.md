@@ -139,7 +139,9 @@ int main(void)
 
 
 ### 2. Binary Search
-![](https://github.com/Sundar13905/Searching/blob/main/Screenshot%202024-10-21%20151327.png)
+
+![image](https://github.com/user-attachments/assets/16713fe5-936b-4780-a24f-e2817b1759e6)
+
 
 ## Conclusion
 In this experiment we learnt how to search an element using different searching algorithms like linear serach and binary search 
